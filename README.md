@@ -39,7 +39,7 @@ interactive performance dashboard.
 | Total Records | 50,000 Events |
 | Total Columns | 19 |
 | Analysis Period | 2021 – 2025 |
-| Visualization Tool | Power BI / Tableau |
+| Visualization Tool | Tableau |
 
 ### Key Fields:
 Event_ID, Event_Timestamp, User_Id, Content_ID, Device_Type, Country,
@@ -53,9 +53,8 @@ Content_Dur_Minutes, Is_Completed
 
 | Tool | Purpose |
 |------|---------|
-| Tableau | Dashboard & Visualizations |
-| MySQL Data Cleaning & Preparation |
-| DAX | Calculated Measures |
+| Tableau | Dashboard & visualizations |
+| MySQL | Data cleaning, preparation and exploration |
 
 ---
 
@@ -95,7 +94,7 @@ Content_Dur_Minutes, Is_Completed
 |---------|---------|
 | Top Age Group | Adults dominate consumption |
 | #2 Age Group | Mid-Age users |
-| Gender Split | Male 47.16% / Female 49.05% / Non-binary 1.94% / Prefer Not Say 1.85% |
+| Gender Split | Male 49.05% / Female 47.16% / Non-binary 1.94% / Prefer Not Say 1.85% |
 | Primary Device | Mobile Phone — 26,972 events (54%) |
 
 ### 💳 Subscription Tiers
